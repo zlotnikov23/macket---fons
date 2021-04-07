@@ -1,0 +1,245 @@
+.about {
+  display: flex;
+  margin: 48px 80px 27px;
+  justify-content: space-around;
+}
+.about__icons {
+  background: url(../picture/medi.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  max-width: 95.25px;
+  height: 29.61px;
+  margin: 0px 127px 0px 0px;
+}
+
+.menu__item {
+  font-family: "Roboto";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  text-decoration: none;
+  color: #1b0a42;
+  margin: 24px;
+}
+.about__blok {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  max-width: 600px;
+  height: 43px;
+}
+.button_item {
+  width: 94px;
+  height: 41px;
+  background: transparent;
+  color: #1b0a42;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item:hover {
+  border-radius: 8px;
+  background-color: #0000ff;
+  color: #ffffff;
+}
+.title__title {
+  width: 605px;
+  height: 163px;
+  margin-top: 151.71px;
+  margin-left: 1px;
+  font-family: "Ramaraja";
+  font-weight: 600;
+  font-size: 72px;
+  line-height: 76px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+.title__text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 32px;
+  color: #9a9a9a;
+}
+.title__background {
+  background: url(../picture/Group.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  max-width: 582.25px;
+  height: 509.61px;
+}
+.title__button {
+  width: 141.57px;
+  height: 51.87px;
+  background: transparent;
+  color: #ffffff;
+  background-color: #0000ff;
+  outline: none;
+  border-radius: 11px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.title__background1 {
+  background: url(../picture/group1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  max-width: 582.25px;
+  height: 509.61px;
+}
+.title__button1 {
+  width: 141.57px;
+  height: 51.87px;
+  background: transparent;
+  color: #ffffff;
+  background-color: #824ff1;
+  outline: none;
+  border-radius: 11px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item1 {
+  width: 94px;
+  height: 41px;
+  background: transparent;
+  color: #1b0a42;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item1:hover {
+  border-radius: 8px;
+  background-color: #824ff1;
+  color: #ffffff;
+}
+.title__background2 {
+  background: url(../picture/frame.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  max-width: 582.25px;
+  height: 509.61px;
+}
+.title__button2 {
+  width: 141.57px;
+  height: 51.87px;
+  background: transparent;
+  color: #ffffff;
+  background-color: #a3dc00;
+  outline: none;
+  border-radius: 11px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item2 {
+  width: 94px;
+  height: 41px;
+  background: transparent;
+  color: #1b0a42;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item2:hover {
+  border-radius: 8px;
+  background-color: #a3dc00;
+  color: #ffffff;
+}
+.title__background3 {
+  background: url(../picture/Frame3.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  max-width: 765.25px;
+  height: 509.61px;
+}
+.title__button3 {
+  width: 141.57px;
+  height: 51.87px;
+  background: transparent;
+  color: #ffffff;
+  background-color: #fc569a;
+  outline: none;
+  border-radius: 11px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item3 {
+  width: 94px;
+  height: 41px;
+  background: transparent;
+  color: #1b0a42;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item3:hover {
+  border-radius: 8px;
+  background-color: #fc569a;
+  color: #ffffff;
+}
+.title__background4 {
+  background: url(../picture/frame4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  max-width: 757.25px;
+  height: 509.61px;
+}
+.title__button4 {
+  width: 141.57px;
+  height: 51.87px;
+  background: transparent;
+  color: #ffffff;
+  background-color: #33a2e0;
+  outline: none;
+  border-radius: 11px;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item4 {
+  width: 94px;
+  height: 41px;
+  background: transparent;
+  color: #1b0a42;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: 25px;
+  font-weight: 400;
+}
+.button_item4:hover {
+  border-radius: 8px;
+  background-color: #33a2e0;
+  color: #ffffff;
+}
